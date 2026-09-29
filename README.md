@@ -1,36 +1,35 @@
-# dalla-santaeu Running Store
+# dalla-santaeu — Real Product Running Store
 
-A complete responsive demo storefront for running shoes and running gear.
+This corrected version uses **real product photos from official brand / retailer image sources** and **current USD price references** checked on September 29, 2026.
 
 ## Included
 
-- 26 catalog products
-- Running shoes, socks, hats, sunglasses, belts and hydration
-- A local image file for every product card
-- Current/reference prices verified on September 29, 2026
+- Real running shoe product photos
+- Real accessory product photos
+- Running shoes, socks, hat, sunglasses, running belts and hydration
+- Current/reference USD prices
+- Original/compare prices where a sale was verified
 - Source link on every product card
-- Search, category filter, brand filter and price sorting
+- `SOURCES.md` with the complete source list
+- Search and filtering
+- Cart with Local Storage
 - Favorites
-- Shopping cart with Local Storage
-- Runner advice section
-- Support section
-- Mobile responsive design
-- GitHub Pages ready
-
-## Open the store
-
-Extract the ZIP and open `index.html`.
-
-## GitHub Pages
-
-Upload the contents of this folder to your repository, then:
-
-Settings → Pages → Deploy from a branch → `main` → `/root`
+- Responsive mobile design
+- Runner support/advice section
+- Existing dalla-santaeu logo and favicon
 
 ## Important
 
-This is a demo storefront. The support phone number and email are placeholders and must be replaced before production.
+The product images are loaded from external official/retailer image URLs, so the site needs an internet connection to display them.
 
-Prices were taken from current/reference public retail listings and may change by size, color, retailer or promotion. See `SOURCES.md`.
+Retail pricing changes frequently. Re-check the product source before accepting a real customer order.
 
-Product images included in the ZIP are local catalog visuals created for this demo and are not official licensed brand product photography.
+The support phone and email are demo placeholders and must be replaced with your real business details.
+
+## GitHub Pages
+
+Upload the files and folders from this project into your repository root.
+
+Then go to:
+
+Settings → Pages → Deploy from a branch → `main` → `/root`
